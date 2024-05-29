@@ -14,33 +14,33 @@ toc: yes # leave empty or erase for no TOC
 ---
 Bienvenidos a nuestra guía de viaje completa sobre Roma, la Ciudad Eterna. Roma, con su historia milenaria y su cultura vibrante, es un destino imprescindible para cualquier viajero. En esta guía, te llevaremos a través de los principales puntos turísticos, restaurantes locales y alojamientos asequibles para que disfrutes al máximo de tu visita.
 
-Día 1: Explora el Coliseo y el Foro Romano
+## Día 1: Explora el Coliseo y el Foro Romano
 
 Comienza tu aventura en Roma visitando el icónico Coliseo. Este anfiteatro antiguo es uno de los monumentos más famosos del mundo y ofrece una visión fascinante de la historia romana. Después, dirígete al Foro Romano, el corazón de la antigua Roma, donde podrás explorar ruinas y templos históricos.
 
-Día 2: Visita la Ciudad del Vaticano
+## Día 2: Visita la Ciudad del Vaticano
 
 Dedica tu segundo día a la Ciudad del Vaticano. Comienza con una visita a la Basílica de San Pedro y no te pierdas la impresionante vista desde la cúpula. Luego, explora los Museos Vaticanos, hogar de la Capilla Sixtina y otras obras maestras del Renacimiento.
 
-Día 3: Recorre el Centro Histórico
+## Día 3: Recorre el Centro Histórico
 
 Pasea por el centro histórico de Roma y descubre la Fontana di Trevi, el Panteón y la Piazza Navona. Cada rincón de esta zona está lleno de historia y encanto. Asegúrate de lanzar una moneda en la Fontana di Trevi para asegurar tu regreso a Roma.
 
-Día 4: Descubre Trastevere
+## Día 4: Descubre Trastevere
 
 Explora el encantador barrio de Trastevere, conocido por sus calles adoquinadas y vibrante vida nocturna. Visita la Basílica de Santa María en Trastevere y disfruta de una cena en uno de los muchos restaurantes locales que ofrecen auténtica comida italiana.
 
-Día 5: Relájate en los Jardines de Villa Borghese
+## Día 5: Relájate en los Jardines de Villa Borghese
 
 Concluye tu viaje relajándote en los Jardines de Villa Borghese. Este extenso parque ofrece hermosos paisajes, museos y vistas panorámicas de la ciudad desde la Terraza del Pincio. Puedes alquilar una bicicleta o simplemente disfrutar de un paseo tranquilo.
 
-### Recomendaciones de Restaurantes:
+### Recomendaciones de Restaurantes
 
 -La Carbonara: Prueba la mejor pasta carbonara en este restaurante histórico situado en el barrio de Monti.
 -Pizzeria da Baffetto: Conocida por sus deliciosas pizzas, esta pizzería es una parada obligada para los amantes de la comida italiana.
 -Roscioli: Disfruta de una experiencia gastronómica completa con una amplia selección de embutidos, quesos y vinos.
 
-### Alojamiento Asequible:
+### Alojamiento Asequible
 
 -Hotel Santa Maria: Un encantador hotel en Trastevere con cómodas habitaciones y un ambiente acogedor.
 -Hotel Artimide: Situado cerca de la estación de Termini, ofrece habitaciones modernas y un excelente servicio al cliente.
