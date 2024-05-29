@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: Guía de Viaje Completa: Descubre los Encantos de Roma
 date:   2024-05-12 13:32:20 -0600
-description: Descubre los encantos de Roma con nuestra guía de viaje completa. Explora los principales puntos turísticos, restaurantes locales y alojamientos asequibles en la Ciudad Eterna.
+description: Descubre los encantos de Roma. Explora los principales puntos turísticos, restaurantes locales y alojamientos en la Ciudad Eterna.
 img: posts/20210312/nnet_optimization.jpg
 tags: [coding, machine learning, optimization, deep Neural networks]
 author: Javier Coco Gómez
