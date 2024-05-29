@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: Guía de Viaje Completa: Descubre los Encantos de Roma
+title: Guía de Viaje Completa - Descubre los Encantos de Roma
 date:   2024-05-12 13:32:20 -0600
 description: Descubre los encantos de Roma. Explora los principales puntos turísticos, restaurantes locales y alojamientos en la Ciudad Eterna.
 img: posts/20210312/nnet_optimization.jpg
