@@ -121,7 +121,4 @@ self.bias[i] -= ((eta * (self.v["db" + str(i)]
                         + c.EPSILON))))
 ```
 
-hola
-```
-
 
