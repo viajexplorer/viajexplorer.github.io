@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Guía de Viaje para Mochileros - Explorando el Sudeste Asiático"
-date:   2024-05-09 13:30:20 -0600
+date:   2024-05-13 13:30:20 -0600
 description: "Descubre los mejores destinos del Sudeste Asiático con nuestra guía de viaje para mochileros. Encuentra consejos sobre alojamiento barato, transporte y actividades económicas."
 img: posts/20210312/nnet_optimization.jpg
 tags: [mochileros Sudeste Asiático, viajar barato por el Sudeste Asiático, rutas de mochilero en Asia, consejos de mochilero Sudeste Asiático, alojamiento económico en Asia]
