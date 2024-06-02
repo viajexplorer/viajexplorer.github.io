@@ -35,7 +35,6 @@ Explora el encantador barrio de Trastevere, conocido por sus calles adoquinadas 
 Concluye tu viaje relajándote en los Jardines de Villa Borghese. Este extenso parque ofrece hermosos paisajes, museos y vistas panorámicas de la ciudad desde la Terraza del Pincio. Puedes alquilar una bicicleta o simplemente disfrutar de un paseo tranquilo.
 
 ### Recomendaciones de Restaurantes
-
 -La Carbonara: Prueba la mejor pasta carbonara en este restaurante histórico situado en el barrio de Monti.
 
 -Pizzeria da Baffetto: Conocida por sus deliciosas pizzas, esta pizzería es una parada obligada para los amantes de la comida italiana.
@@ -44,7 +43,6 @@ Concluye tu viaje relajándote en los Jardines de Villa Borghese. Este extenso p
 
 
 ### Alojamiento Asequible
-
 -Hotel Santa Maria: Un encantador hotel en Trastevere con cómodas habitaciones y un ambiente acogedor.
 
 -Hotel Artimide: Situado cerca de la estación de Termini, ofrece habitaciones modernas y un excelente servicio al cliente.
