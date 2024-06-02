@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: Guía de Viaje por Ciudad - Explorando Nueva York en 5 Días
 date:   2024-05-11 13:30:20 -0600
-description: Explora Nueva York en 5 días con nuestra guía de viaje por ciudad. Descubre los barrios más interesantes, los mejores museos y las atracciones imprescindibles.
+description: "Explora Nueva York en 5 días con nuestra guía de viaje por ciudad. Descubre los barrios más interesantes, los mejores museos y las atracciones imprescindibles."
 img: posts/20210312/nnet_optimization.jpg
 tags: [coding, machine learning, optimization, deep Neural networks]
 author: Javier Coco Gómez
