@@ -44,15 +44,14 @@ Grand Central Terminal: Admira la arquitectura de esta famosa estación de tren 
 Harlem: Explora el legado cultural de Harlem. Visita el Teatro Apollo y pasea por la calle 125.
 The Bronx: Visita el Zoológico del Bronx y el Jardín Botánico de Nueva York. No te pierdas el estadio de los Yankees si eres fanático del béisbol.
 
-### Recomendaciones de Restaurantes:
+### Recomendaciones de Restaurantes
 Katz's Delicatessen: Famoso por su pastrami y su ambiente clásico de Nueva York.
 Joe's Pizza: Prueba una de las mejores pizzas de la ciudad en este icónico lugar.
 Le Bernardin: Para una experiencia gastronómica de lujo, este restaurante de mariscos con estrellas Michelin es una excelente elección.
 
-### Alojamiento Asequible:
+### Alojamiento Asequible
 Pod 39 Hotel: Un hotel moderno y asequible en Midtown Manhattan, ideal para viajeros jóvenes.
 HI New York City Hostel: Un albergue económico y bien ubicado en el Upper West Side.
 The Jane Hotel: Un hotel boutique en el West Village con una rica historia y tarifas razonables.
-Conclusión:
 
 Nueva York es una ciudad que ofrece algo para todos. Esperamos que esta guía de viaje por ciudad te ayude a aprovechar al máximo tus 5 días en esta metrópolis dinámica y emocionante.
