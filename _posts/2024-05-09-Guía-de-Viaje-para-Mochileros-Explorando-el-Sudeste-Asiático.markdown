@@ -3,10 +3,10 @@ layout: post
 read_time: true
 show_date: true
 title: "Guía de Viaje para Mochileros - Explorando el Sudeste Asiático"
-date:   2024-05-11 13:30:20 -0600
+date:   2024-05-09 13:30:20 -0600
 description: "Descubre los mejores destinos del Sudeste Asiático con nuestra guía de viaje para mochileros. Encuentra consejos sobre alojamiento barato, transporte y actividades económicas."
 img: posts/20210312/nnet_optimization.jpg
-tags: [coding, machine learning, optimization, deep Neural networks]
+tags: [mochileros Sudeste Asiático, viajar barato por el Sudeste Asiático, rutas de mochilero en Asia, consejos de mochilero Sudeste Asiático, alojamiento económico en Asia]
 author: Javier Coco Gómez
 github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
