@@ -13,42 +13,37 @@ Atenas, la cuna de la civilización occidental, está llena de historia, mitolog
 
 ## Día 1: La Acrópolis y el Museo de la Acrópolis
 
-Acrópolis: Comienza tu viaje en la Acrópolis, hogar del Partenón, el Erecteión y el Templo de Atenea Niké. Estas estructuras emblemáticas te transportarán a la antigua Grecia.
-Museo de la Acrópolis: Visita este museo moderno para ver artefactos y esculturas encontradas en el sitio arqueológico. La terraza ofrece una vista impresionante de la Acrópolis.
+- Acrópolis: Comienza tu viaje en la Acrópolis, hogar del Partenón, el Erecteión y el Templo de Atenea Niké. Estas estructuras emblemáticas te transportarán a la antigua Grecia.
+- Museo de la Acrópolis: Visita este museo moderno para ver artefactos y esculturas encontradas en el sitio arqueológico. La terraza ofrece una vista impresionante de la Acrópolis.
 
 ## Día 2: Ágora Antigua y Barrio de Plaka
 
-Ágora Antigua: Explora el antiguo centro comercial y político de Atenas. No te pierdas el Templo de Hefesto y el Stoa de Átalo.
-Plaka: Pasea por este encantador barrio con calles adoquinadas, tiendas de souvenirs y tabernas tradicionales. Es el lugar perfecto para disfrutar de una comida griega auténtica.
+- Ágora Antigua: Explora el antiguo centro comercial y político de Atenas. No te pierdas el Templo de Hefesto y el Stoa de Átalo.
+- Plaka: Pasea por este encantador barrio con calles adoquinadas, tiendas de souvenirs y tabernas tradicionales. Es el lugar perfecto para disfrutar de una comida griega auténtica.
 
 ## Día 3: Museo Nacional de Arqueología y Monte Licabeto
 
-Museo Nacional de Arqueología: Descubre una de las colecciones de artefactos griegos más importantes del mundo, que abarca desde la prehistoria hasta la antigüedad tardía.
-Monte Licabeto: Sube o toma el funicular hasta la cima de este monte para obtener vistas panorámicas de Atenas. Es un excelente lugar para ver el atardecer.
+- Museo Nacional de Arqueología: Descubre una de las colecciones de artefactos griegos más importantes del mundo, que abarca desde la prehistoria hasta la antigüedad tardía.
+- Monte Licabeto: Sube o toma el funicular hasta la cima de este monte para obtener vistas panorámicas de Atenas. Es un excelente lugar para ver el atardecer.
  
 ## Día 4: Estadio Panathinaikó y Templo de Zeus Olímpico
 
-Estadio Panathinaikó: Visita el estadio donde se celebraron los primeros Juegos Olímpicos modernos en 1896. Puedes incluso correr una vuelta en la pista.
-Templo de Zeus Olímpico: Aunque en ruinas, este templo sigue siendo impresionante por su escala y su historia. Justo al lado se encuentra el Arco de Adriano, una puerta monumental que marcaba la frontera entre la antigua y la nueva ciudad.
+- Estadio Panathinaikó: Visita el estadio donde se celebraron los primeros Juegos Olímpicos modernos en 1896. Puedes incluso correr una vuelta en la pista.
+- Templo de Zeus Olímpico: Aunque en ruinas, este templo sigue siendo impresionante por su escala y su historia. Justo al lado se encuentra el Arco de Adriano, una puerta monumental que marcaba la frontera entre la antigua y la nueva ciudad.
 
 ## Día 5: Pireo y la Riviera Ateniense
 
-Pireo: Explora el puerto de Atenas, uno de los más antiguos y activos del mundo. Visita el Museo Arqueológico de Pireo y disfruta de mariscos frescos en una taberna junto al mar.
-Riviera Ateniense: Relájate en las playas cercanas como Vouliagmeni y Glyfada. Es una excelente manera de terminar tu viaje con un poco de sol y mar.
+- Pireo: Explora el puerto de Atenas, uno de los más antiguos y activos del mundo. Visita el Museo Arqueológico de Pireo y disfruta de mariscos frescos en una taberna junto al mar.
+- Riviera Ateniense: Relájate en las playas cercanas como Vouliagmeni y Glyfada. Es una excelente manera de terminar tu viaje con un poco de sol y mar.
 
 ### Recomendaciones de Restaurantes:
-Ta Karamanlidika tou Fani: Disfruta de embutidos y quesos tradicionales en este restaurante único.
-Tzitzikas kai Mermigas: Un lugar popular entre los locales por su deliciosa comida griega y su ambiente acogedor.
+- Ta Karamanlidika tou Fani: Disfruta de embutidos y quesos tradicionales en este restaurante único.
+- Tzitzikas kai Mermigas: Un lugar popular entre los locales por su deliciosa comida griega y su ambiente acogedor.
 Spondi: Para una experiencia gastronómica de lujo, este restaurante con dos estrellas Michelin ofrece cocina griega moderna.
 
 ### Alojamiento Asequible:
-Athens Backpackers: Un hostal céntrico y popular entre los mochileros con un ambiente social.
-Acropolis View Hotel: Un hotel asequible con vistas impresionantes de la Acrópolis desde su terraza.
-City Circus Athens: Un albergue boutique en el centro de Atenas con habitaciones modernas y acogedoras.
+- Athens Backpackers: Un hostal céntrico y popular entre los mochileros con un ambiente social.
+- Acropolis View Hotel: Un hotel asequible con vistas impresionantes de la Acrópolis desde su terraza.
+- City Circus Athens: Un albergue boutique en el centro de Atenas con habitaciones modernas y acogedoras.
 
 Atenas es una ciudad llena de historia y cultura que te transportará a la antigua Grecia. Esperamos que esta guía de viaje cultural te inspire a sumergirte en su rica herencia y a explorar todos los tesoros que ofrece.
-
-- I want to start coding again! I used to code a long time ago, starting when I was 8 years old in a Tandy Color Computer hooked up to my parent's TV.
-- Machine Learning is a vast, wide subject, I want to learn the generals, but also to select a few areas to focus on.
-- Setting up a blog to document my journey and share it:
-- Establish a learning and blogging routine. If I don't do this, I am sure this endeavour will die off soon.
