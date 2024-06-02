@@ -3,12 +3,11 @@ layout: post
 read_time: true
 show_date: true
 title: "Guía de Viaje Completa - Descubre los Encantos de Roma"
-date:   2024-05-11 13:30:20 -0600
+date:   2024-05-08 13:30:20 -0600
 description: "Descubre los encantos de Roma. Explora los principales puntos turísticos, restaurantes locales y alojamientos en la Ciudad Eterna."
 img: posts/20210312/nnet_optimization.jpg
-tags: [coding, machine learning, optimization, deep Neural networks]
+tags: [guia de viaje a Roma, turismo en Roma, que ver en Roma, itinerario de 3 días en Roma, atracciones principales de Roma]
 author: Javier Coco Gómez
-github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
 toc: yes # leave empty or erase for no TOC
 ---
