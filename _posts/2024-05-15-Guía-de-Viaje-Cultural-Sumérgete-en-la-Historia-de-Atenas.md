@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Guía de Viaje Cultural - Sumérgete en la Historia de Atenas"
-date: 2024-05-10
+date: 2024-05-15
 img: posts/20210324/starting_adventure.jpg
 tags: [general blogging, thoughts, life]
 author: Javier
