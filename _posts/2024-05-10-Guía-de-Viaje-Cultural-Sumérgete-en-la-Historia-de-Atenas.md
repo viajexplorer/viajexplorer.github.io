@@ -47,3 +47,8 @@ Acropolis View Hotel: Un hotel asequible con vistas impresionantes de la Acrópo
 City Circus Athens: Un albergue boutique en el centro de Atenas con habitaciones modernas y acogedoras.
 
 Atenas es una ciudad llena de historia y cultura que te transportará a la antigua Grecia. Esperamos que esta guía de viaje cultural te inspire a sumergirte en su rica herencia y a explorar todos los tesoros que ofrece.
+
+- I want to start coding again! I used to code a long time ago, starting when I was 8 years old in a Tandy Color Computer hooked up to my parent's TV.
+- Machine Learning is a vast, wide subject, I want to learn the generals, but also to select a few areas to focus on.
+- Setting up a blog to document my journey and share it:
+- Establish a learning and blogging routine. If I don't do this, I am sure this endeavour will die off soon.
