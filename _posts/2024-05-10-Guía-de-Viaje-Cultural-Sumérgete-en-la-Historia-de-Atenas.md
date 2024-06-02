@@ -8,6 +8,7 @@ img: posts/20210324/starting_adventure.jpg
 tags: [general blogging, thoughts, life]
 author: Javier
 description: "Sumérgete en la rica historia de Atenas con nuestra guía de viaje cultural. Descubre los sitios arqueológicos más importantes y las historias detrás de cada monumento."
+toc: yes # leave empty or erase for no TOC
 ---
 Atenas, la cuna de la civilización occidental, está llena de historia, mitología y cultura. En esta guía de viaje cultural, te llevamos a través de los sitios arqueológicos más importantes y te contamos las historias detrás de cada monumento.
 
