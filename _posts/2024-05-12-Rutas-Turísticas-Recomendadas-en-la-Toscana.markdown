@@ -5,7 +5,7 @@ show_date: true
 title: "Rutas Turísticas Recomendadas en la Toscana"
 date:   2024-05-12 13:32:20 -0600
 description: "Descubre las mejores rutas turísticas recomendadas en la Toscana. Explora viñedos, pueblos encantadores y lugares históricos con nuestra guía detallada."
-img: posts/20210312/nnet_optimization.jpg
+img: posts/toscana.jpeg
 tags: [guias, viajes, toscana, viajeToscana, rutasToscana, turismoToscana, guíaDeViaje]
 author: Javier Coco Gómez
 github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
