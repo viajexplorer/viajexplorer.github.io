@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Guía de Viaje Cultural - Sumérgete en la Historia de Atenas"
 date: 2024-05-15
-img: posts/20210324/starting_adventure.jpg
+img: posts/starting_adventure.jpg
 tags: [guias, viajes, guía de viaje a Atenas, historia de Atenas, qué ver en Atenas, sitios arqueológicos de Atenas, turismo, cultural en Atenas, life]
 author: Javier
 description: "Sumérgete en la rica historia de Atenas con nuestra guía de viaje cultural. Descubre los sitios arqueológicos más importantes y las historias detrás de cada monumento."
