@@ -5,7 +5,7 @@ show_date: true
 title: "Guía de Viaje por Ciudad - Explorando Nueva York en 5 Días"
 date:   2024-05-11 13:30:20 -0600
 description: "Explora Nueva York en 5 días con nuestra guía de viaje por ciudad. Descubre los barrios más interesantes, los mejores museos y las atracciones imprescindibles."
-img: posts/20210312/nnet_optimization.jpg
+img: posts/NY.jpeg
 tags: [guias, viajes, guía de Nueva York, qué hacer en Nueva York, itinerario de 5 días en Nueva York, lugares turísticos de Nueva York, visitar Nueva York]
 author: Javier Coco Gómez
 github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
