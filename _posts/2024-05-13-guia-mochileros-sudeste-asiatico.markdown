@@ -35,11 +35,12 @@ El Sudeste Asiático es un paraíso para los mochileros, con sus impresionantes 
 - Hostales y Albergues: Busca hostales con buenas reseñas en plataformas como Hostelworld y [Booking.com](https://www.booking.com/index.es.html?label=gen173nr-1BCAEoggI46AdIM1gEaEaIAQGYAQq4ARfIAQzYAQHoAQGIAgGoAgO4AqCUgbMGwAIB0gIkNDFiNDJmZmQtNTY1Mi00YTA2LTkwM2UtZTRmNzg4OTBjZDE42AIF4AIB&sid=d7fc594692ffb072ccf8f18327093447&keep_landing=1&sb_price_type=total&). Algunos populares incluyen Mad Monkey Hostel (Tailandia), Vietnam Backpacker Hostels (Vietnam) y Lub d Cambodia (Camboya).
 - Homestays: Opta por alojamientos familiares para una experiencia cultural más auténtica y asequible. [Airbnb](https://www.airbnb.es/ ) y [Homestay.com](https://www.homestay.com/) son buenas opciones para encontrar homestays.
 
-### Transporte Económico
+
+## Transporte Económico
 - Autobuses y Trenes: Los autobuses y trenes son una opción económica para moverse entre ciudades y países. Empresas como [Giant Ibis](https://giantibis.com/ ) (Camboya) y Green Bus (Tailandia) son populares entre los mochileros.
 - Vuelos de Bajo Coste: Utiliza aerolíneas de bajo coste como [AirAsia](https://www.airasia.com/en/gb ), VietJet y [Nok Air](https://nokair.com/ ) para desplazarte rápidamente entre destinos lejanos a precios razonables.
 
-### Actividades Económicas
+## Actividades Económicas
 Tours Gratuitos a Pie: 
 - Muchas ciudades ofrecen tours gratuitos a pie dirigidos por guías locales. Es una excelente manera de conocer la historia y cultura de la ciudad.
 - Mercados Locales: Explora los mercados locales para probar comida callejera deliciosa y asequible. El mercado nocturno de Chiang Mai y el mercado de Ben Thanh en Ho Chi Minh son imprescindibles.
