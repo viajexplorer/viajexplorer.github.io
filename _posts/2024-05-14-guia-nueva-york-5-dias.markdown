@@ -43,12 +43,13 @@ Nueva York, la ciudad que nunca duerme, ofrece una experiencia única y emociona
 - Harlem: Explora el legado cultural de Harlem. Visita el [Teatro Apollo](https://somproduce.com/recinto/teatro-nuevo-apolo/ ) y pasea por la calle 125.
 - The Bronx: Visita el [Zoológico del Bronx](https://bronxzoo.com/ ) y el [Jardín Botánico de Nueva York](https://www.anuevayork.com/jardin-botanico-de-nueva-york/ ). No te pierdas el [estadio de los Yankees](https://www.mlb.com/es/yankees/ballpark ) si eres fanático del béisbol.
 
-### Recomendaciones de Restaurantes
+
+## Recomendaciones de Restaurantes
 - [Katz`s Delicatessen](https://katzsdelicatessen.com/ ): Famoso por su pastrami y su ambiente clásico de Nueva York.
 - [Joe`s Pizza](https://www.joespizzanyc.com/ ): Prueba una de las mejores pizzas de la ciudad en este icónico lugar.
 - Le Bernardin: Para una experiencia gastronómica de lujo, este restaurante de mariscos con estrellas Michelin es una excelente elección.
 
-### Alojamiento Asequible
+## Alojamiento Asequible
 - [Pod 39](https://www.thepodhotel.com/): Un hotel moderno y asequible en Midtown Manhattan, ideal para viajeros jóvenes.
 - HI New York City Hostel: Un albergue económico y bien ubicado en el Upper West Side.
 - [The Jane Hotel](https://thejanenyc.com/ ): Un hotel boutique en el West Village con una rica historia y tarifas razonables.
