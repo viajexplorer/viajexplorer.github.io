@@ -31,21 +31,21 @@ Atenas, la cuna de la civilización occidental, está llena de historia, mitolog
 ## Día 4: Estadio Panathinaikó y Templo de Zeus Olímpico
 
 - [Estadio Panathinaikó](https://www.panathenaicstadium.gr): Visita el estadio donde se celebraron los primeros Juegos Olímpicos modernos en 1896. Puedes incluso correr una vuelta en la pista.
-- Templo de Zeus Olímpico: Aunque en ruinas, este templo sigue siendo impresionante por su escala y su historia. Justo al lado se encuentra el Arco de Adriano, una puerta monumental que marcaba la frontera entre la antigua y la nueva ciudad.
+- [Templo de Zeus Olímpico]( https://www.atenas.net/templo-zeus-olimpico ): Aunque en ruinas, este templo sigue siendo impresionante por su escala y su historia. Justo al lado se encuentra el Arco de Adriano, una puerta monumental que marcaba la frontera entre la antigua y la nueva ciudad.
 
 ## Día 5: Pireo y la Riviera Ateniense
 
-- Pireo: Explora el puerto de Atenas, uno de los más antiguos y activos del mundo. Visita el Museo Arqueológico de Pireo y disfruta de mariscos frescos en una taberna junto al mar.
-- Riviera Ateniense: Relájate en las playas cercanas como Vouliagmeni y Glyfada. Es una excelente manera de terminar tu viaje con un poco de sol y mar.
+- Pireo: Explora el puerto de Atenas, uno de los más antiguos y activos del mundo. Visita el [Museo Arqueológico de Pireo]( https://voicemap.me/tour/piraeus/lo-mejor-de-el-pireo-una-caminata-a-traves-del-tiempo/sites/el-museo-arqueologico-del-pireo ) y disfruta de mariscos frescos en una taberna junto al mar.
+- [Riviera Ateniense]( https://www.getyourguide.es/atenas-l91/atenas-riviera-ateniense-tour-privado-en-furgoneta-t427601/ ): Relájate en las playas cercanas como Vouliagmeni y Glyfada. Es una excelente manera de terminar tu viaje con un poco de sol y mar.
 
 ### Recomendaciones de Restaurantes:
-- Ta Karamanlidika tou Fani: Disfruta de embutidos y quesos tradicionales en este restaurante único.
+- [Ta Karamanlidika tou Fani]( https://www.greekgastronomyguide.gr/es/item/ta-karamanlidika-tou-fani-evripidou-athens/ ): Disfruta de embutidos y quesos tradicionales en este restaurante único.
 - Tzitzikas kai Mermigas: Un lugar popular entre los locales por su deliciosa comida griega y su ambiente acogedor.
-Spondi: Para una experiencia gastronómica de lujo, este restaurante con dos estrellas Michelin ofrece cocina griega moderna.
+- [Spondi]( https://spondi.gr/en/ ): Para una experiencia gastronómica de lujo, este restaurante con dos estrellas Michelin ofrece cocina griega moderna.
 
 ### Alojamiento Asequible:
 - Athens Backpackers: Un hostal céntrico y popular entre los mochileros con un ambiente social.
-- Acropolis View Hotel: Un hotel asequible con vistas impresionantes de la Acrópolis desde su terraza.
+- [Acropolis View Hotel]( https://www.acropolisviewhotel.gr/es/atenas-hotel-partenon ): Un hotel asequible con vistas impresionantes de la Acrópolis desde su terraza.
 - City Circus Athens: Un albergue boutique en el centro de Atenas con habitaciones modernas y acogedoras.
 
 Atenas es una ciudad llena de historia y cultura que te transportará a la antigua Grecia. Esperamos que esta guía de viaje cultural te inspire a sumergirte en su rica herencia y a explorar todos los tesoros que ofrece.
