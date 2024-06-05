@@ -16,7 +16,7 @@ La Toscana, conocida por sus paisajes impresionantes, viñedos y rica historia, 
 # Ruta 1: De Florencia a Siena
 
 ## Día 1: Florencia
-Comienza tu viaje en Florencia, la cuna del Renacimiento. Visita la Catedral de Santa María del Fiore, el Ponte Vecchio y la Galería Uffizi, donde podrás admirar obras maestras de artistas como Leonardo da Vinci y Michelangelo.
+Comienza tu viaje en Florencia, la cuna del Renacimiento. Visita la Catedral de [Santa María del Fiore](https://historia.nationalgeographic.com.es/a/catedral-florencia-maravilla-renacimiento_13634), el Ponte Vecchio y la [Galería Uffizi](https://www.visituffizi.org/es/), donde podrás admirar obras maestras de artistas como Leonardo da Vinci y Michelangelo.
 
 ## Día 2: San Gimignano
 En el camino a Siena, haz una parada en San Gimignano, famoso por sus torres medievales. Pasea por sus calles empedradas y disfruta de las vistas panorámicas desde la Torre Grossa.
