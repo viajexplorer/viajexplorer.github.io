@@ -40,7 +40,8 @@ Comienza en Arezzo, una ciudad rica en historia y arte. Visita la Basílica de S
 ## Día 2: Cortona
 Concluye tu ruta en Cortona, una ciudad en la cima de una colina con vistas espectaculares del valle de Chiana. Explora sus calles medievales, el Museo dell'Accademia Etrusca y disfruta de una cena con vistas en uno de sus restaurantes locales.
 
-### Recomendaciones de Bodegas:
+
+## Recomendaciones de Bodegas:
 - [Antinori nel Chianti Classico](https://www.antinori.it/it/tenuta/tenute-antinori/antinori-nel-chianti-classico/): Una de las bodegas más famosas de la región, ofrece tours y degustaciones en un entorno impresionante.
 - [Castello di Ama](https://castellodiama.com/it/): Conocido por su excelente vino Chianti y su hermoso castillo, es un lugar perfecto para una visita.
 - [Barone Ricasoli](https://www.tripadvisor.es/Attraction_Review-g616196-d4097825-Reviews-Barone_Ricasoli-Gaiole_in_Chianti_Tuscany.html): La bodega más antigua de Italia, ubicada en el castillo de Brolio, ofrece una experiencia histórica y deliciosa.
