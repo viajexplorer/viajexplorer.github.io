@@ -15,22 +15,22 @@ Atenas, la cuna de la civilización occidental, está llena de historia, mitolog
 
 ## Día 1: La Acrópolis y el Museo de la Acrópolis
 
-- Acrópolis: Comienza tu viaje en la Acrópolis, hogar del Partenón, el Erecteión y el Templo de Atenea Niké. Estas estructuras emblemáticas te transportarán a la antigua Grecia.
+- [Acrópolis](https://www.grecia.info/es/atenas/que-ver-en-atenas/acropolis/): Comienza tu viaje en la Acrópolis, hogar del Partenón, el Erecteión y el Templo de Atenea Niké. Estas estructuras emblemáticas te transportarán a la antigua Grecia.
 - Museo de la Acrópolis: Visita este museo moderno para ver artefactos y esculturas encontradas en el sitio arqueológico. La terraza ofrece una vista impresionante de la Acrópolis.
 
 ## Día 2: Ágora Antigua y Barrio de Plaka
 
-- Ágora Antigua: Explora el antiguo centro comercial y político de Atenas. No te pierdas el Templo de Hefesto y el Stoa de Átalo.
+- [Ágora Antigua](https://www.worldhistory.org/trans/es/1-512/agora/): Explora el antiguo centro comercial y político de Atenas. No te pierdas el Templo de Hefesto y el Stoa de Átalo.
 - Plaka: Pasea por este encantador barrio con calles adoquinadas, tiendas de souvenirs y tabernas tradicionales. Es el lugar perfecto para disfrutar de una comida griega auténtica.
 
 ## Día 3: Museo Nacional de Arqueología y Monte Licabeto
 
-- Museo Nacional de Arqueología: Descubre una de las colecciones de artefactos griegos más importantes del mundo, que abarca desde la prehistoria hasta la antigüedad tardía.
-- Monte Licabeto: Sube o toma el funicular hasta la cima de este monte para obtener vistas panorámicas de Atenas. Es un excelente lugar para ver el atardecer.
+- [Museo Nacional de Arqueología](https://www.namuseum.gr): Descubre una de las colecciones de artefactos griegos más importantes del mundo, que abarca desde la prehistoria hasta la antigüedad tardía.
+- Monte Licabeto: Sube o toma el funicular hasta la cima de este monte para obtener vistas panorámicas de Atenas. Es un excelente lugar para ver el atardecer. Más información sobre el [Monte Licabeto](https://helenizarte.com/grecia-continental/atica/atenas/monte-licabeto/).
  
 ## Día 4: Estadio Panathinaikó y Templo de Zeus Olímpico
 
-- Estadio Panathinaikó: Visita el estadio donde se celebraron los primeros Juegos Olímpicos modernos en 1896. Puedes incluso correr una vuelta en la pista.
+- [Estadio Panathinaikó](https://www.panathenaicstadium.gr): Visita el estadio donde se celebraron los primeros Juegos Olímpicos modernos en 1896. Puedes incluso correr una vuelta en la pista.
 - Templo de Zeus Olímpico: Aunque en ruinas, este templo sigue siendo impresionante por su escala y su historia. Justo al lado se encuentra el Arco de Adriano, una puerta monumental que marcaba la frontera entre la antigua y la nueva ciudad.
 
 ## Día 5: Pireo y la Riviera Ateniense
