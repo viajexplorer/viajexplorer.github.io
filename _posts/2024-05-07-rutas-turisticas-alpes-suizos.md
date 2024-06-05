@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Rutas Turísticas Recomendadas en los Alpes Suizos"
 date: 2024-05-07
-img: posts/starting_adventure.jpg
+img: posts/suiza.jpeg
 tags: [RutasAlpesSuizos, TurismoAlpesSuizos, QuéVerEnAlpesSuizos, ViajeAlpesSuizos, ExperienciasAlpesSuizos]
 category: theory
 author: Javier
