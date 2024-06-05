@@ -76,14 +76,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-compress
 
-assets:
-  css:
-    style: compressed
-  js:
-    style: compressed
+#assets:
+ # css:
+#    style: compressed
+ #  js:
+ #    style: compressed
 
- - name: Web Pre-Processor
-    uses: tinpotnick/webpreprocessor@v1.13
+#  - name: Web Pre-Processor
+#     uses: tinpotnick/webpreprocessor@v1.13
             
 
 
