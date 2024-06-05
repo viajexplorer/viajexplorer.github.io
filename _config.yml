@@ -82,6 +82,10 @@ assets:
   js:
     style: compressed
 
+ - name: Web Pre-Processor
+    uses: tinpotnick/webpreprocessor@v1.13
+            
+
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
