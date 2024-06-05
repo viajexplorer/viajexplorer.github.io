@@ -16,7 +16,7 @@ Atenas, la cuna de la civilización occidental, está llena de historia, mitolog
 ## Día 1: La Acrópolis y el Museo de la Acrópolis
 
 - [Acrópolis](https://www.grecia.info/es/atenas/que-ver-en-atenas/acropolis/): Comienza tu viaje en la Acrópolis, hogar del Partenón, el Erecteión y el Templo de Atenea Niké. Estas estructuras emblemáticas te transportarán a la antigua Grecia.
-- Museo de la Acrópolis: Visita este museo moderno para ver artefactos y esculturas encontradas en el sitio arqueológico. La terraza ofrece una vista impresionante de la Acrópolis.
+- "Museo" de la Acrópolis: Visita este museo moderno para ver artefactos y esculturas encontradas en el sitio arqueológico. La terraza ofrece una vista impresionante de la Acrópolis.
 
 ## Día 2: Ágora Antigua y Barrio de Plaka
 
