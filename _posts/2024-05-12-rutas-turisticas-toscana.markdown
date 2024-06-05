@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "rutas-turisticas-toscana"
+title: "Rutas Turísticas Recomendadas en la Toscana"
 date:   2024-05-12 13:32:20 -0600
 description: "Descubre las mejores rutas turísticas recomendadas en la Toscana. Explora viñedos, pueblos encantadores y lugares históricos con nuestra guía detallada."
 img: posts/toscana.jpeg
