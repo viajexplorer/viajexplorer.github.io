@@ -8,7 +8,6 @@ description: "Descubre los mejores destinos del Sudeste Asiático con nuestra gu
 img: posts/asia.jpeg
 tags: [guias, viajes, mochileros Sudeste Asiático, viajar barato por el Sudeste Asiático, rutas de mochilero en Asia, consejos de mochilero Sudeste Asiático, alojamiento económico en Asia]
 author: Javier Coco Gómez
-github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
 toc: yes # leave empty or erase for no TOC
 ---
