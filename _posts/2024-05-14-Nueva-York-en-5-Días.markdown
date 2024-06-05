@@ -8,7 +8,6 @@ description: "Explora Nueva York en 5 días con nuestra guía de viaje por ciuda
 img: posts/NY.jpeg
 tags: [guias, viajes, guía de Nueva York, qué hacer en Nueva York, itinerario de 5 días en Nueva York, lugares turísticos de Nueva York, visitar Nueva York]
 author: Javier Coco Gómez
-github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
 toc: yes # leave empty or erase for no TOC
 ---
