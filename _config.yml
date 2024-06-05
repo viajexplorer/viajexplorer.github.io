@@ -8,8 +8,7 @@ logo: "/assets/img/branding/viajexplorer.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
-highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
+
 
 # Author settings
 author: Javier Coco Gómez # add your name
@@ -75,6 +74,14 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-compress
+
+assets:
+  css:
+    style: compressed
+  js:
+    style: compressed
+
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
