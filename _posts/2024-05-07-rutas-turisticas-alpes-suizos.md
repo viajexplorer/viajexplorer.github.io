@@ -13,7 +13,7 @@ description: "Descubre las mejores rutas turísticas en los Alpes suizos con nue
 Los Alpes suizos son conocidos por sus impresionantes paisajes montañosos, estaciones de esquí de clase mundial y encantadores pueblos alpinos. Esta guía te llevará a través de algunas de las rutas turísticas más espectaculares para que puedas experimentar la belleza y aventura que los Alpes suizos tienen para ofrecer.
 
 ## Día 1: Zermatt y el Matterhorn
-Comienza tu viaje en Zermatt, hogar del icónico Matterhorn. Disfruta de una caminata hasta el mirador de Gornergrat para obtener vistas panorámicas de las montañas y glaciares. No te pierdas la oportunidad de tomar el teleférico hasta Klein Matterhorn.
+Comienza tu viaje en [Zermatt](https://www.zermatt.ch/es/Zermatt-Matterhorn), hogar del icónico Matterhorn. Disfruta de una caminata hasta el mirador de Gornergrat para obtener vistas panorámicas de las montañas y glaciares. No te pierdas la oportunidad de tomar el teleférico hasta Klein Matterhorn.
 
 ## Día 2: Jungfraujoch, el Techo de Europa
 Viaja hacia la región de Jungfrau y toma el tren de cremallera hasta Jungfraujoch, conocido como el Techo de Europa. Desde aquí, podrás admirar vistas espectaculares de los Alpes y visitar el Palacio de Hielo.
