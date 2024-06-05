@@ -11,27 +11,27 @@ author: Javier Coco Gómez
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
 toc: yes # leave empty or erase for no TOC
 ---
-Bienvenidos a nuestra guía de viaje completa sobre Roma, la Ciudad Eterna. Roma, con su historia milenaria y su cultura vibrante, es un destino imprescindible para cualquier viajero. En esta guía, te llevaremos a través de los principales puntos turísticos, restaurantes locales y alojamientos asequibles para que disfrutes al máximo de tu visita.
+Bienvenidos a nuestra guía de viaje completa sobre [Roma, la ciudad eterna](https://www.tripadvisor.es/ShowUserReviews-g187791-r65067892-Rome_Lazio.html). Roma, con su historia milenaria y su cultura vibrante, es un destino imprescindible para cualquier viajero. En esta guía, te llevaremos a través de los principales puntos turísticos, restaurantes locales y alojamientos asequibles para que disfrutes al máximo de tu visita.
 
 ## Día 1: Explora el Coliseo y el Foro Romano
 
-Comienza tu aventura en Roma visitando el icónico Coliseo. Este anfiteatro antiguo es uno de los monumentos más famosos del mundo y ofrece una visión fascinante de la historia romana. Después, dirígete al Foro Romano, el corazón de la antigua Roma, donde podrás explorar ruinas y templos históricos.
+Comienza tu aventura en Roma visitando el icónico [Coliseo](https://www.tripadvisor.es/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html). Este anfiteatro antiguo es uno de los monumentos más famosos del mundo y ofrece una visión fascinante de la historia romana. Después, dirígete al [Foro Romano](https://www.tripadvisor.es/Attraction_Review-g187791-d190996-Reviews-Palatine_Hill-Rome_Lazio.html), el corazón de la antigua Roma, donde podrás explorar ruinas y templos históricos.
 
 ## Día 2: Visita la Ciudad del Vaticano
 
-Dedica tu segundo día a la Ciudad del Vaticano. Comienza con una visita a la Basílica de San Pedro y no te pierdas la impresionante vista desde la cúpula. Luego, explora los Museos Vaticanos, hogar de la Capilla Sixtina y otras obras maestras del Renacimiento.
+Dedica tu segundo día a la [Ciudad del Vaticano](https://www.tripadvisor.es/Attraction_Review-g187793-d1968471-Reviews-Vatican_City-Vatican_City_Lazio.html). Comienza con una visita a la [Basílica de San Pedro](https://www.tripadvisor.es/Attraction_Review-g187793-d631111-Reviews-St_Peter_s_Basilica-Vatican_City_Lazio.html) y no te pierdas la impresionante vista desde la cúpula. Luego, explora los [Museos Vaticanos](https://www.tripadvisor.es/Attraction_Review-g187791-d2345994-Reviews-Museos_Vaticanos-Rome_Lazio.html), hogar de la Capilla Sixtina y otras obras maestras del Renacimiento.
 
 ## Día 3: Recorre el Centro Histórico
 
-Pasea por el centro histórico de Roma y descubre la Fontana di Trevi, el Panteón y la Piazza Navona. Cada rincón de esta zona está lleno de historia y encanto. Asegúrate de lanzar una moneda en la Fontana di Trevi para asegurar tu regreso a Roma.
+Pasea por el centro histórico de Roma y descubre la [Fontana di Trevi](https://www.tripadvisor.es/Attraction_Review-g187791-d190131-Reviews-Trevi_Fountain-Rome_Lazio.html), el Panteón y la Piazza Navona. Cada rincón de esta zona está lleno de historia y encanto. Asegúrate de lanzar una moneda en la Fontana di Trevi para asegurar tu regreso a Roma.
 
 ## Día 4: Descubre Trastevere
 
-Explora el encantador barrio de Trastevere, conocido por sus calles adoquinadas y vibrante vida nocturna. Visita la Basílica de Santa María en Trastevere y disfruta de una cena en uno de los muchos restaurantes locales que ofrecen auténtica comida italiana.
+Explora el encantador barrio de [Trastevere](https://www.tripadvisor.es/Attraction_Review-g187791-d190123-Reviews-Trastevere-Rome_Lazio.html), conocido por sus calles adoquinadas y vibrante vida nocturna. Visita la Basílica de Santa María en Trastevere y disfruta de una cena en uno de los muchos restaurantes locales que ofrecen auténtica comida italiana.
 
 ## Día 5: Relájate en los Jardines de Villa Borghese
 
-Concluye tu viaje relajándote en los Jardines de Villa Borghese. Este extenso parque ofrece hermosos paisajes, museos y vistas panorámicas de la ciudad desde la Terraza del Pincio. Puedes alquilar una bicicleta o simplemente disfrutar de un paseo tranquilo.
+Concluye tu viaje relajándote en los [Jardines de Villa Borgjese](https://www.tripadvisor.es/Attraction_Review-g187791-d190133-Reviews-Villa_Borghese-Rome_Lazio.html). Este extenso parque ofrece hermosos paisajes, museos y vistas panorámicas de la ciudad desde la Terraza del Pincio. Puedes alquilar una bicicleta o simplemente disfrutar de un paseo tranquilo.
 
 ### Recomendaciones de Restaurantes
 - La Carbonara: Prueba la mejor pasta carbonara en este restaurante histórico situado en el barrio de Monti.
