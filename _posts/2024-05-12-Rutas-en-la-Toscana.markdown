@@ -8,7 +8,6 @@ description: "Descubre las mejores rutas turísticas recomendadas en la Toscana.
 img: posts/toscana.jpeg
 tags: [guias, viajes, toscana, viajeToscana, rutasToscana, turismoToscana, guíaDeViaje]
 author: Javier Coco Gómez
-github: amaynez/TicTacToe/blob/7bf83b3d5c10adccbeb11bf244fe0af8d9d7b036/entities/Neural_Network.py#L199
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
 toc: yes # leave empty or erase for no TOC
 ---
