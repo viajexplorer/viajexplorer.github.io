@@ -31,17 +31,17 @@ Explora el encantador barrio de [Trastevere](https://www.tripadvisor.es/Attracti
 
 ## Día 5: Relájate en los Jardines de Villa Borghese
 
-Concluye tu viaje relajándote en los [Jardines de Villa Borgjese](https://www.tripadvisor.es/Attraction_Review-g187791-d190133-Reviews-Villa_Borghese-Rome_Lazio.html). Este extenso parque ofrece hermosos paisajes, museos y vistas panorámicas de la ciudad desde la Terraza del Pincio. Puedes alquilar una bicicleta o simplemente disfrutar de un paseo tranquilo.
+Concluye tu viaje relajándote en los [Jardines de Villa Borgjese](https://www.tripadvisor.es/Attraction_Review-g187791-d190133-Reviews-Villa_Borghese-Rome_Lazio.html). Este extenso parque ofrece hermosos paisajes, museos y vistas panorámicas de la ciudad desde la [Terraza del Pincio](https://www.tripadvisor.es/Attraction_Review-g187791-d13089572-Reviews-Terrazza_del_Pincio-Rome_Lazio.html). Puedes alquilar una bicicleta o simplemente disfrutar de un paseo tranquilo.
 
 ### Recomendaciones de Restaurantes
-- La Carbonara: Prueba la mejor pasta carbonara en este restaurante histórico situado en el barrio de Monti.
+- [La Carbonara](https://www.tripadvisor.es/Restaurant_Review-g187791-d1016936-Reviews-La_Carbonara-Rome_Lazio.html): Prueba la mejor pasta carbonara en este restaurante histórico situado en el barrio de Monti.
 - Pizzeria da Baffetto: Conocida por sus deliciosas pizzas, esta pizzería es una parada obligada para los amantes de la comida italiana.
-- Roscioli: Disfruta de una experiencia gastronómica completa con una amplia selección de embutidos, quesos y vinos.
+- [Roscioli](https://www.tripadvisor.es/Restaurant_Review-g187791-d789274-Reviews-Roscioli-Rome_Lazio.html): Disfruta de una experiencia gastronómica completa con una amplia selección de embutidos, quesos y vinos.
 
 
 ### Alojamiento Asequible
 - Hotel Santa Maria: Un encantador hotel en Trastevere con cómodas habitaciones y un ambiente acogedor.
-- Hotel Artimide: Situado cerca de la estación de Termini, ofrece habitaciones modernas y un excelente servicio al cliente.
+- [Hotel Artimide](https://www.tripadvisor.es/Hotel_Review-g187791-d205044-Reviews-Hotel_Artemide-Rome_Lazio.html ): Situado cerca de la estación de Termini, ofrece habitaciones modernas y un excelente servicio al cliente.
 - Generator Rome: Un albergue moderno y económico con una ubicación céntrica, ideal para mochileros y viajeros jóvenes.
 
 Roma es una ciudad que te dejará sin aliento con su rica historia, impresionante arquitectura y deliciosa comida. Esperamos que esta guía de viaje completa te ayude a planificar tu visita y a disfrutar de todo lo que Roma tiene para ofrecer.
