@@ -38,14 +38,13 @@ Atenas, la cuna de la civilización occidental, está llena de historia, mitolog
 - Pireo: Explora el puerto de Atenas, uno de los más antiguos y activos del mundo. Visita el [Museo Arqueológico de Pireo]( https://voicemap.me/tour/piraeus/lo-mejor-de-el-pireo-una-caminata-a-traves-del-tiempo/sites/el-museo-arqueologico-del-pireo ) y disfruta de mariscos frescos en una taberna junto al mar.
 - [Riviera Ateniense]( https://www.getyourguide.es/atenas-l91/atenas-riviera-ateniense-tour-privado-en-furgoneta-t427601/ ): Relájate en las playas cercanas como Vouliagmeni y Glyfada. Es una excelente manera de terminar tu viaje con un poco de sol y mar.
 
-##   
 
-### Recomendaciones de Restaurantes
+## Recomendaciones de Restaurantes
 - [Ta Karamanlidika tou Fani]( https://www.greekgastronomyguide.gr/es/item/ta-karamanlidika-tou-fani-evripidou-athens/ ): Disfruta de embutidos y quesos tradicionales en este restaurante único.
 - Tzitzikas kai Mermigas: Un lugar popular entre los locales por su deliciosa comida griega y su ambiente acogedor.
 - [Spondi]( https://spondi.gr/en/ ): Para una experiencia gastronómica de lujo, este restaurante con dos estrellas Michelin ofrece cocina griega moderna.
 
-### Alojamiento Asequible
+## Alojamiento Asequible
 - Athens Backpackers: Un hostal céntrico y popular entre los mochileros con un ambiente social.
 - [Acropolis View Hotel]( https://www.acropolisviewhotel.gr/es/atenas-hotel-partenon ): Un hotel asequible con vistas impresionantes de la Acrópolis desde su terraza.
 - City Circus Athens: Un albergue boutique en el centro de Atenas con habitaciones modernas y acogedoras.
