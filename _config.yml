@@ -1,6 +1,6 @@
 # Site settings
 title: VIAJEXPLORER
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+description: 'Descubre las mejores rutas turísticas, consejos de viaje y experiencias auténticas en nuestro blog. Desde los majestuosos Alpes Suizos hasta la histórica Roma y los encantadores pueblos de la Toscana, te ofrecemos guías detalladas para que disfrutes al máximo de cada destino. Encuentra recomendaciones de restaurantes locales, alojamiento asequible y actividades de aventura para cada tipo de viajero. Únete a nuestra comunidad de exploradores y convierte cada viaje en una experiencia inolvidable con ViajeXplorer."
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://viajexplorer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -21,8 +21,7 @@ phone: # Add your Phone number
 website: https://viajexplorer.github.io # Add your website
 linkedin: amaynez # Add your Linkedin handle
 github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
+twitter: '' # Add your Twitter handle
 stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
