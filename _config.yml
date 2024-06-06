@@ -61,5 +61,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+  - name: Image Optimizer
+    uses: crush-pics/crush-pics-github-action@v1.0
+            
+
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
