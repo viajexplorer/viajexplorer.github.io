@@ -35,7 +35,7 @@ Nueva York, la ciudad que nunca duerme, ofrece una experiencia única y emociona
 ## Día 4: Mid-Manhattan
 
 - [Empire State Building](https://www.esbnyc.com/ ): Sube al observatorio para disfrutar de una vista espectacular de la ciudad.
-- Bryant Park: Relájate en este encantador parque y visita la [Bibliotheca Publica de Nueva York](https://www.nuevayork.es/quever/lugares-historicos/la-biblioteca-publica-de-nueva-york/ ).
+- Bryant Park: Relájate en este encantador parque y visita la [Biblioteca Publica de Nueva York](https://www.nuevayork.es/quever/lugares-historicos/la-biblioteca-publica-de-nueva-york/ ).
 - [Grand Central Terminal](https://www.anuevayork.com/guia-grand-central-terminal/ ): Admira la arquitectura de esta famosa estación de tren y disfruta de una comida en su mercado de alimentos.
 
 ## Día 5: Harlem y The Bronx
