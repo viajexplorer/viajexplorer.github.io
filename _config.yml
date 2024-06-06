@@ -1,6 +1,6 @@
 # Site settings
 title: VIAJEXPLORER
-description: 'Descubre las mejores rutas turísticas, consejos de viaje y experiencias auténticas en nuestro blog. Desde los majestuosos Alpes Suizos hasta la histórica Roma y los encantadores pueblos de la Toscana, te ofrecemos guías detalladas para que disfrutes al máximo de cada destino. Encuentra recomendaciones de restaurantes locales, alojamiento asequible y actividades de aventura para cada tipo de viajero. Únete a nuestra comunidad de exploradores y convierte cada viaje en una experiencia inolvidable con ViajeXplorer."
+description: 'Explora rutas turísticas, consejos de viaje y experiencias auténticas en ViajeXplorer. Desde los Alpes Suizos hasta Roma y la Toscana, te ofrecemos guías detalladas, recomendaciones de restaurantes, alojamiento asequible y actividades de aventura. Convierte cada viaje en una experiencia única con nuestra comunidad de exploradores.'
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://viajexplorer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
