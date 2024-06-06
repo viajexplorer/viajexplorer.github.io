@@ -9,7 +9,6 @@ logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
 
-
 # Author settings
 author: Javier Coco Gómez # add your name
 author-pic: Myself_Neon_grey.jpg
@@ -60,9 +59,6 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-
-  - name: Image Optimizer
-    uses: crush-pics/crush-pics-github-action@v1.0
             
 
 include: [_pages]
